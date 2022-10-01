@@ -5,4 +5,4 @@ It uses a deque structure to simulate a stack structure to hold the digits of th
 
 The code from the Deque class was obtained from GeeksForGeeks.
 
-Run DecimalToBinary.java.
+Download both files and run DecimalToBinary.java.
